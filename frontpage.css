@@ -1,0 +1,16 @@
+body {
+	background-color: #303036;
+	background-image: url(concrete-wall-2.png);
+}
+
+li a {
+	color: white;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.navbar-brand {
+	color: white;
+}
